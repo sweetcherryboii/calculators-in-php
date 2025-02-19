@@ -1,6 +1,6 @@
 <?php
 
-$method = readline("what poeration would you like to perform? (+ , -, *, /, %)");
+$method = readline("what operation would you like to perform? (+ , -, *, /, %)");
 
 if ($method == "+") {
     $first = readline("first number?");
